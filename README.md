@@ -12,7 +12,7 @@
 
 ## 使用
 
-0. 在浏览器安装用户脚本管理器：[Google Chrome 点此](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)，[Mozilla Firefox 点此](https://addons.mozilla.org/zh-CN/firefox/addon/violentmonkey/)，[Safari 用户点此](http://tampermonkey.net/?browser=safari)，[Microsoft Edge 点此](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)，[360 极速浏览器点此](https://ext.chrome.360.cn/webstore/detail/jinjaccalgkegednnccohejagnlnfdag)，[傲游浏览器点此](http://extension.maxthon.cn/detail/index.php?view_id=1680)
+0. 在浏览器安装用户脚本管理器：[Google Chrome 点此](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)，[Mozilla Firefox 点此](https://addons.mozilla.org/zh-CN/firefox/addon/violentmonkey/)，[Safari 点此](http://tampermonkey.net/?browser=safari)，[Microsoft Edge 点此](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)，[360 极速浏览器点此](https://ext.chrome.360.cn/webstore/detail/jinjaccalgkegednnccohejagnlnfdag)，[傲游浏览器点此](http://extension.maxthon.cn/detail/index.php?view_id=1680)。
 0. **访问[该页面](https://greasyfork.org/zh-CN/scripts/397003)，点击`安装此脚本`，在弹出页面`确认安装`。**
 0. 大功告成。
 
